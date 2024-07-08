@@ -1,0 +1,19 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root {
+   --cor-de-fundo: #7498b9;
+   --cor-de-fundo-destaque: #FFF;
+   --color-font-black:#000;
+   --color-font-white:#FFF;
+
+   --color-white-hover: #E7E7E7;
+   --cor-de-branco: #E7E7E7;
+   --cor-de-form: #d6dbd6;
+   --cor-branca: #FFFFFF;
+   --cor-azul: #56a182;
+   --cor-borda: #C8C8C8;
+   
+}
